@@ -14,7 +14,6 @@ def eye(col, rad):
 	pen.end_fill()
 	pen.up()
 
-
 # draw face
 pen.fillcolor('#99752c')
 pen.begin_fill()
